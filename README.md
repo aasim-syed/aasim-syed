@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hey, Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center"> 🚀 Software Engineer • Front-end Dev • Open Source Enthusiast </h2>
 
 
