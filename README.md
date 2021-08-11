@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/" target="_blank"> <img src="Images/Github.png" alt="GitHub" width="40" height="40"/>
-<a href="https://www.kaggle.com/ravinash218"target="blank"><img align="center" src="Images/kaggle-logo-transparent-300.png" alt="Kaggle" height="30" width="40" /></a>
+
 <a href="https://dev.to/aasimsyed" target="blank"><img align="center" src="Images/dev.jpg" alt="Dev" height="30" width="40" /></a>
 <a href="http://www.linkedin.com/in/syed-aasim" target="blank"><img align="center" src="Images/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" /></a>
 
