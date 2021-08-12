@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working @ <a href="http://www.webnetiz.com/">webnetizsolutions</a> and contributing to various open -sources
+- 🔭 I’m currently contributing to various open -sources
 - 🌱 I’m currently learning Express.Js,THREE.Js,SPARK,ANDROID&IOS DEV
 - 👯 I’m looking to collaborate on ANYTHING!!!
 - 🤔 I’m looking for help with ALL MOST EVERYTHING😂😂
