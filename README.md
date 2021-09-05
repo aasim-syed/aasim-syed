@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=aasim-syed&column=7&theme=gruvbox&no-frame=true"/>
 </details>
   **Open Source Contributor in GWOC '21🥇**<br>
-<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
+<img src="gwoc.png" alt="GWOC Badge" width="60" height="60">
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aasim-syed&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
