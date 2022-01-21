@@ -1,8 +1,8 @@
-### Hi there 👋
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+### Hi there 👋<h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> 🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center"> 🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
+
+
 
 
 <!--**aasim-syed/aasim-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
