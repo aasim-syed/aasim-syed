@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
-
+<h3>DOWNLOAD MAH RESUME 👉<a href="https://drive.google.com/file/d/1avq3fGVcUan5Xb5sWlZaUItGmOdlasoP/view?usp=sharing">HERE 🙂</a></h3>
+      
 <h3 align="left">Profile Views: 🧐</h3>
 <img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
 
