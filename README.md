@@ -83,4 +83,6 @@ Here are some ideas to get you started:
 
 </p>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31v6pvoxphilo63ijnfpfoeut6ru?si=706fb369d2d74e40) 
+
 
