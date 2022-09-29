@@ -1,12 +1,16 @@
 <h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px"></h1> 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> 🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"> 
+<img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+ <img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
 
 
 
 
 <!--**aasim-syed/aasim-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+
+ 
+![image](https://user-images.githubusercontent.com/70385414/192991125-c1510583-1a01-4939-9337-0c5f104bd05c.png)
 
 Here are some ideas to get you started:
 - 🔭 FUllStack-dev MERN (Nextjs🚀)
