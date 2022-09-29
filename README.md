@@ -1,6 +1,9 @@
 <h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px"></h1> 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> 🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"> 
+<p align="center">
+<!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> -->
+ 🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
+<p align="center">
+<!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">  -->
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
  <img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
 
