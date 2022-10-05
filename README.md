@@ -1,4 +1,7 @@
 <h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px"></h1> 
+
+![mb](https://user-images.githubusercontent.com/96356684/189736973-936525e0-d709-4e03-bd14-3ea84b387e1c.gif)
+
 <p align="center">
 <!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> -->
  🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
@@ -89,6 +92,10 @@ Here are some ideas to get you started:
 
 
 </p>
+
+
+![ezgif-1-a0666d40e2](https://user-images.githubusercontent.com/96356684/189739928-f1bbf7fb-3d45-416c-b9fb-ade8b788c9f5.gif)
+
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31v6pvoxphilo63ijnfpfoeut6ru?si=706fb369d2d74e40) 
 
