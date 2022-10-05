@@ -7,11 +7,11 @@
  🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
 <p align="center">
 <!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">  -->
+</p>
+
+<!-- 
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
- <img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
-
-
-
+ <img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> -->
 
 <!--**aasim-syed/aasim-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
