@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px"></h1> 
 
-![mb](https://user-images.githubusercontent.com/96356684/189736973-936525e0-d709-4e03-bd14-3ea84b387e1c.gif)
+
 
 <p align="center">
 <!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> -->
@@ -16,14 +16,8 @@
 <!--**aasim-syed/aasim-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
  
-![image](https://user-images.githubusercontent.com/70385414/192991125-c1510583-1a01-4939-9337-0c5f104bd05c.png)
 
-Here are some ideas to get you started:
-- 🔭 FUllStack-dev MERN (Nextjs🚀)
-- 🔭 I’m currently contributing to various open -sources
-- 🌱 I’m currently learning Golang,Nuxt.js,Laravel
-- 👯 I’m looking to collaborate on ANYTHING!!!
-- 🤔 I’m looking for help with ALL MOST EVERYTHING😂😂
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -66,10 +60,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasim-syed&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=aasim-syed&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
 
   
 <details><summary>Trophies</summary>
@@ -84,6 +74,7 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aasim-syed&theme=chartreuse-dark" />
 </p>  
 
+![image](https://user-images.githubusercontent.com/70385414/192991125-c1510583-1a01-4939-9337-0c5f104bd05c.png)
 ### :link: &nbsp;Connect with me
 
 <p align="center">
