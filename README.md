@@ -1,93 +1,103 @@
-<h1 align="center">Hey, I am Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px"></h1> 
-
-
+<a href="https://newportfoilo-tawny.vercel.app"><img width="100%" src="assets/hero.svg" alt="Syed Aasim — builds AI that ships" /></a>
 
 <p align="center">
-<!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> -->
- 🚀 Software Engineer • FullStack-Dev • Open Source Enthusiast </h2>
-<p align="center">
-<!--  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">  -->
+  <a href="https://newportfoilo-tawny.vercel.app"><img width="24%" src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aasim-syed13/"><img width="24%" src="assets/btn-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:syedaasim133@gmail.com"><img width="24%" src="assets/btn-email.svg" alt="Email" /></a>
+  <a href="https://doi.org/10.1007/s11042-024-20187-x"><img width="24%" src="assets/btn-paper.svg" alt="Springer paper" /></a>
 </p>
 
-<!-- 
-<img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
- <img align="center" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> -->
+<img width="100%" src="assets/runner-1.svg" alt="pixel avatar running" />
 
-<!--**aasim-syed/aasim-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<img width="100%" src="assets/terminal.svg" alt="terminal" />
 
- 
+<img width="100%" src="assets/stats.svg" alt="11+ side projects · 3x hackathon wins · 500+ students mentored · Springer 2024" />
 
+<img width="100%" src="assets/h-work.svg" alt="01 Things I built" />
 
+<a href="https://github.com/aasim-syed?tab=repositories"><img width="100%" src="assets/systems.svg" alt="Projects" /></a>
 
-### 🛠 &nbsp;Tech Stack
+<details>
+<summary><b>Links & details</b></summary>
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+| Project | What it does |
+|---|---|
+| 🎞️ **AgentReplay** | Open-source PyPI package to record & replay LLM agent runs |
+| 🧠 [**AgentLab.js**](https://github.com/aasim-syed/AgentLab.js) | Design. Debug. Demo. Agents, all in the browser |
+| 🕸️ [**GraphScope**](https://github.com/aasim-syed/GraphScope) | Inspect knowledge graphs like a scientist |
+| 🔍 [**NeuroSearch-Lab**](https://github.com/aasim-syed/NeuroSearch-Lab) | In-browser IVF + PQ vector search playground with benchmarks |
+| 👗 [**fashion-agentic-search**](https://github.com/aasim-syed/fashion-agentic-search) | Agentic multimodal fashion search |
+| 💪 [**MindMuscleMap**](https://github.com/aasim-syed/MindMuscleMap) | Detects and visualizes technique drift in real time |
+| 🚪 **crackTHErule** | Race an AI to crack a secret rule — six switches, one door, a 3D escape room (Next.js + three.js + Groq) |
+| ✨ **Summon** | Say a word, it appears as particles in your hands |
+| 🎥 **Story Cam** | Tell a story out loud, watch it animate live over your webcam |
+| 🗿 **Shout to Sculpt** | Your voice shapes a 3D clay blob — export as GIF |
+| 🌀 **CrowdEvolve** | A living shader the top reply on X mutates every day |
 
-      
-<h3 align="left">Profile Views: 🧐</h3>
-<img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasim-syed&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=aasim-syed&column=7&theme=gruvbox&no-frame=true"/>
 </details>
-  **Open Source Contributor in GWOC '21🥇**<br>
-<img src="gwoc.png" alt="GWOC Badge" width="60" height="60">
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aasim-syed&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aasim-syed&theme=chartreuse-dark" />
-</p>  
+<img width="100%" src="assets/runner-2.svg" alt="pixel avatar dodging bugs" />
 
-![image](https://user-images.githubusercontent.com/70385414/192991125-c1510583-1a01-4939-9337-0c5f104bd05c.png)
-### :link: &nbsp;Connect with me
+<img width="100%" src="assets/h-research.svg" alt="02 Research" />
+
+<a href="https://doi.org/10.1007/s11042-024-20187-x"><img width="100%" src="assets/research.svg" alt="Text-driven clothed human image synthesis with 3D human model estimation — Springer MTAP 2024" /></a>
+
+> **Text-Driven Clothed Human Image Synthesis with 3D Human Model Estimation for Assistance in Shopping**
+> S. Karkuzhali, **A. Syed Aasim**, A. StalinRaj · *Multimedia Tools and Applications*, Springer, 2024 · [DOI](https://doi.org/10.1007/s11042-024-20187-x)
+>
+> Type a description of an outfit, get a full-body photo of a person wearing it, then lift that photo into a 3D model so shoppers can see fit. BERT attribute encoding + DensePose → hierarchical VQ-VAE → GAN refinement → pixel-aligned implicit function (PIFu) + stacked hourglass → SMPL. **FID 24.65**, beating Pix2PixHD, SPADE, MISC and HumanGAN-parsing.
+
+<img width="100%" src="assets/h-oss.svg" alt="03 Upstream" />
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aaasim-syed+-user%3Aaasim-syed"><img width="100%" src="assets/oss-prs.svg" alt="Live open-source PRs" /></a>
+
+<details>
+<summary><b>All PRs (auto-updated daily)</b></summary>
+<br/>
+
+<!-- OSS:START -->
+| | Repo | PR | |
+|---|---|---|---|
+| 🟧 merged | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) ★7.5k | [fix(bedrock): trace invoke_model* calls whose body is a file-like object](https://github.com/traceloop/openllmetry/pull/4602) | 2026-10-11 |
+| ⬜ in review | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) ★5.5k | [[Puzzletron] Reuse existing subblock stats when resuming a run](https://github.com/NVIDIA/Model-Optimizer/pull/2555) | 2026-09-27 |
+| ⬜ in review | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ★109.5k | [fix(cli): stop running npm against pnpm, Yarn, and Bun global installs](https://github.com/paperclipai/paperclip/pull/14126) | 2026-09-26 |
+| 🟧 merged | [apache/shardingsphere](https://github.com/apache/shardingsphere) ★20.8k | [Update README.md](https://github.com/apache/shardingsphere/pull/15946) | 2022-03-09 |
+| 🟧 merged | [apache/shardingsphere](https://github.com/apache/shardingsphere) ★20.8k | [Improving readme](https://github.com/apache/shardingsphere/pull/15898) | 2022-03-09 |
+| 🟧 merged | [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) ★9.3k | [Update PROJECTS.md](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/580) | 2021-09-02 |
+<!-- OSS:END -->
+
+</details>
+
+<sub>🎃 Hacktoberfest contributor · 🥇 GWOC '21 open-source contributor · 🌱 GirlScript mentor</sub>
+
+<img width="100%" src="assets/h-tools.svg" alt="04 Toolbox" />
+
+<img width="100%" src="assets/toolbox.svg" alt="Toolbox: LangGraph, MCP, Claude agents, LoRA/QLoRA, YOLO, PyTorch, FastAPI, Kafka, React and more" />
+
+<img width="100%" src="assets/h-stats.svg" alt="05 Telemetry" />
 
 <p align="center">
-<a href="https://linkedin.com/in/syed-aasim"><img src="https://img.shields.io/badge/-Syed%20Aasim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:syedaasim133@gmail.com"><img src="https://img.shields.io/badge/-syedaasim133@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aasim-syed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0a0a&title_color=F5A524&icon_color=F5A524&text_color=e6e6e6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasim-syed&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=F5A524&text_color=e6e6e6" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aasim-syed&bg_color=0a0a0a&color=e6e6e6&line=F5A524&point=ffffff&area=true&area_color=F5A524&hide_border=true" />
+</p>
 
-![ezgif-1-a0666d40e2](https://user-images.githubusercontent.com/96356684/189739928-f1bbf7fb-3d45-416c-b9fb-ade8b788c9f5.gif)
+<details>
+<summary><b>🏆 Wins & community</b></summary>
+<br/>
 
+- 🧑‍💻 **3× hackathon winner** — Smart India Hackathon finalist · OpenForce 2022 Top 50
+- 🌱 **Mentored 500+ students** — GirlScript Winter/Summer of Code 2021 & 2022
+- 🎓 **B.E. Computer Science** — MEPCO Schlenk Engineering College, 2019–2023
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31v6pvoxphilo63ijnfpfoeut6ru?si=706fb369d2d74e40) 
+</details>
 
+<img width="100%" src="assets/runner-3.svg" alt="pixel avatar running" />
 
+<a href="mailto:syedaasim133@gmail.com"><img width="100%" src="assets/footer.svg" alt="Let's build something intelligent." /></a>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aasim-syed&style=flat-square&color=F5A524&label=VISITORS" /></p>
